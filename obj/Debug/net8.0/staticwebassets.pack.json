@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/carlos.vilchez/Documents/cs-projects/cs-projects/VSCodeBlazorMovieReview/obj/Debug/net8.0/scopedcss/projectbundle/VSCodeBlazorMovieReview.bundle.scp.css",
+      "PackagePath": "staticwebassets/VSCodeBlazorMovieReview.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/carlos.vilchez/Documents/cs-projects/cs-projects/VSCodeBlazorMovieReview/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/carlos.vilchez/Documents/cs-projects/cs-projects/VSCodeBlazorMovieReview/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/carlos.vilchez/Documents/cs-projects/cs-projects/VSCodeBlazorMovieReview/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/carlos.vilchez/Documents/cs-projects/cs-projects/VSCodeBlazorMovieReview/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/Users/carlos.vilchez/Documents/cs-projects/cs-projects/VSCodeBlazorMovieReview/wwwroot/images/movies/Godfather.png",
+      "PackagePath": "staticwebassets/images/movies/Godfather.png"
+    },
+    {
+      "Id": "/Users/carlos.vilchez/Documents/cs-projects/cs-projects/VSCodeBlazorMovieReview/wwwroot/images/movies/Highlander.png",
+      "PackagePath": "staticwebassets/images/movies/Highlander.png"
+    },
+    {
+      "Id": "/Users/carlos.vilchez/Documents/cs-projects/cs-projects/VSCodeBlazorMovieReview/wwwroot/images/movies/Highlander2.png",
+      "PackagePath": "staticwebassets/images/movies/Highlander2.png"
+    },
+    {
+      "Id": "/Users/carlos.vilchez/Documents/cs-projects/cs-projects/VSCodeBlazorMovieReview/wwwroot/images/movies/LastOfTheMohicans.png",
+      "PackagePath": "staticwebassets/images/movies/LastOfTheMohicans.png"
+    },
+    {
+      "Id": "/Users/carlos.vilchez/Documents/cs-projects/cs-projects/VSCodeBlazorMovieReview/wwwroot/images/movies/PoliceAcademy6.png",
+      "PackagePath": "staticwebassets/images/movies/PoliceAcademy6.png"
+    },
+    {
+      "Id": "/Users/carlos.vilchez/Documents/cs-projects/cs-projects/VSCodeBlazorMovieReview/wwwroot/images/movies/RearWindow.png",
+      "PackagePath": "staticwebassets/images/movies/RearWindow.png"
+    },
+    {
+      "Id": "/Users/carlos.vilchez/Documents/cs-projects/cs-projects/VSCodeBlazorMovieReview/wwwroot/images/movies/RoadHouse.png",
+      "PackagePath": "staticwebassets/images/movies/RoadHouse.png"
+    },
+    {
+      "Id": "/Users/carlos.vilchez/Documents/cs-projects/cs-projects/VSCodeBlazorMovieReview/wwwroot/images/movies/Shawshank.png",
+      "PackagePath": "staticwebassets/images/movies/Shawshank.png"
+    },
+    {
+      "Id": "/Users/carlos.vilchez/Documents/cs-projects/cs-projects/VSCodeBlazorMovieReview/wwwroot/images/movies/StarTreck4.png",
+      "PackagePath": "staticwebassets/images/movies/StarTreck4.png"
+    },
+    {
+      "Id": "/Users/carlos.vilchez/Documents/cs-projects/cs-projects/VSCodeBlazorMovieReview/wwwroot/images/movies/Superman4.png",
+      "PackagePath": "staticwebassets/images/movies/Superman4.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.VSCodeBlazorMovieReview.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.VSCodeBlazorMovieReview.props",
+      "PackagePath": "build\\VSCodeBlazorMovieReview.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.VSCodeBlazorMovieReview.props",
+      "PackagePath": "buildMultiTargeting\\VSCodeBlazorMovieReview.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.VSCodeBlazorMovieReview.props",
+      "PackagePath": "buildTransitive\\VSCodeBlazorMovieReview.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
