@@ -1,0 +1,31 @@
+@page "/error-demo"
+
+<h3>Manejo de Errores en Blazor</h3>
+
+@if (_hasError)
+{
+    <p style="color:red">Ocurrió unhandled error: @errorMessage</p>
+}
+else
+{
+    <button @onclick="ErrorPrevent">Generar Error</button>
+}
+
+@code {
+    private bool _hasError = false;
+    private string errorMessage;
+
+    private void ErrorPrevent()
+    {
+        try
+        {
+            throw new InvalidOperationException("Este es un error controlado");
+        }
+        catch (Exception ex)
+        {
+            _hasError = true;
+            errorMessage = ex.Message;
+            throw;
+        }
+    }
+}

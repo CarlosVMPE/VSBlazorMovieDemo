@@ -22,16 +22,72 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/carlos.vilchez/Documents/cs-projects/cs-projects/VSCodeBlazorMovieReview/Components/AttributeSplatting/CompButton.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BdHRyaWJ1dGVTcGxhdHRpbmcvQ29tcEJ1dHRvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/carlos.vilchez/Documents/cs-projects/cs-projects/VSCodeBlazorMovieReview/Components/Pages/Cascada/ComponenteHijo.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9DYXNjYWRhL0NvbXBvbmVudGVIaWpvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/carlos.vilchez/Documents/cs-projects/cs-projects/VSCodeBlazorMovieReview/Components/Pages/Cascada/TemaPadre.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9DYXNjYWRhL1RlbWFQYWRyZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/carlos.vilchez/Documents/cs-projects/cs-projects/VSCodeBlazorMovieReview/Components/Pages/CompDirecciones.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Db21wRGlyZWNjaW9uZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/carlos.vilchez/Documents/cs-projects/cs-projects/VSCodeBlazorMovieReview/Components/Pages/ComponentePadreEventCallback.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Db21wb25lbnRlUGFkcmVFdmVudENhbGxiYWNrLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/carlos.vilchez/Documents/cs-projects/cs-projects/VSCodeBlazorMovieReview/Components/Pages/CompPersona.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Db21wUGVyc29uYS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/carlos.vilchez/Documents/cs-projects/cs-projects/VSCodeBlazorMovieReview/Components/Pages/CompRenderFragment.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Db21wUmVuZGVyRnJhZ21lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/carlos.vilchez/Documents/cs-projects/cs-projects/VSCodeBlazorMovieReview/Components/Pages/CompTest.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Db21wVGVzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/carlos.vilchez/Documents/cs-projects/cs-projects/VSCodeBlazorMovieReview/Components/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Db3VudGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/carlos.vilchez/Documents/cs-projects/cs-projects/VSCodeBlazorMovieReview/Components/Pages/DirectorioPersonas.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9EaXJlY3RvcmlvUGVyc29uYXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/carlos.vilchez/Documents/cs-projects/cs-projects/VSCodeBlazorMovieReview/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9FcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/carlos.vilchez/Documents/cs-projects/cs-projects/VSCodeBlazorMovieReview/Components/Pages/Eventos.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9FdmVudG9zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/carlos.vilchez/Documents/cs-projects/cs-projects/VSCodeBlazorMovieReview/Components/Pages/EventosCallback.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9FdmVudG9zQ2FsbGJhY2sucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/carlos.vilchez/Documents/cs-projects/cs-projects/VSCodeBlazorMovieReview/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Ib21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/carlos.vilchez/Documents/cs-projects/cs-projects/VSCodeBlazorMovieReview/Components/Pages/InjectionDependecy.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9JbmplY3Rpb25EZXBlbmRlY3kucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/carlos.vilchez/Documents/cs-projects/cs-projects/VSCodeBlazorMovieReview/Components/Pages/ListaElementos.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9MaXN0YUVsZW1lbnRvcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/carlos.vilchez/Documents/cs-projects/cs-projects/VSCodeBlazorMovieReview/Components/Pages/ManejoErrores.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9NYW5lam9FcnJvcmVzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/carlos.vilchez/Documents/cs-projects/cs-projects/VSCodeBlazorMovieReview/Components/Pages/MovieItem.razor]
@@ -40,6 +96,30 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/Users/carlos.vilchez/Documents/cs-projects/cs-projects/VSCodeBlazorMovieReview/Components/Pages/MovieReview.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Nb3ZpZVJldmlldy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/carlos.vilchez/Documents/cs-projects/cs-projects/VSCodeBlazorMovieReview/Components/Pages/OneWayDataBinding.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9PbmVXYXlEYXRhQmluZGluZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/carlos.vilchez/Documents/cs-projects/cs-projects/VSCodeBlazorMovieReview/Components/Pages/PadreMultipleRenderFragment.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9QYWRyZU11bHRpcGxlUmVuZGVyRnJhZ21lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/carlos.vilchez/Documents/cs-projects/cs-projects/VSCodeBlazorMovieReview/Components/Pages/Products/ProductCard.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcm9kdWN0cy9Qcm9kdWN0Q2FyZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/carlos.vilchez/Documents/cs-projects/cs-projects/VSCodeBlazorMovieReview/Components/Pages/Products/ProductDetail.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcm9kdWN0cy9Qcm9kdWN0RGV0YWlsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/carlos.vilchez/Documents/cs-projects/cs-projects/VSCodeBlazorMovieReview/Components/Pages/Products/ProductList.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcm9kdWN0cy9Qcm9kdWN0TGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/carlos.vilchez/Documents/cs-projects/cs-projects/VSCodeBlazorMovieReview/Components/Pages/TwoWayDataBinding.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Ud29XYXlEYXRhQmluZGluZy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/carlos.vilchez/Documents/cs-projects/cs-projects/VSCodeBlazorMovieReview/Components/Pages/Weather.razor]

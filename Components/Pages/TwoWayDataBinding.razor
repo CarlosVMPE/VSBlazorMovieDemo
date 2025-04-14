@@ -1,0 +1,29 @@
+@page "/twoway"
+
+<h3>Two way Data Bingding</h3>
+<input @bind="nombreUsuario" />
+
+<p>Nombre del usuario: @nombreUsuario</p>
+
+<input @bind="nuevoUsuario.Nombre" placeholder="Nombre usuario"/>
+<input @bind="nuevoUsuario.Email" placeholder="Email usuario"/>
+<input type="password" @bind="nuevoUsuario.Password" placeholder="Password"/>
+
+<button @onclick="RegistrarUsuario">Registrar</button>
+
+@code {
+    private string nombreUsuario = "Name";
+    private Usuario nuevoUsuario = new Usuario();
+
+    private void RegistrarUsuario()
+    {
+        Console.WriteLine($"Usuario registrado: {nuevoUsuario.Nombre}, {nuevoUsuario.Email}");
+    }
+
+    public class Usuario
+    {
+        public string Nombre { get; set; }
+        public string Email { get; set; }
+        public string Password { get; set; }
+    }
+}

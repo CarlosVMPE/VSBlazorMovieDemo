@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VSCodeBlazorMovieReview")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc59e3748d125559011aa9ccc7f2be76bb809c16")]
 [assembly: System.Reflection.AssemblyProductAttribute("VSCodeBlazorMovieReview")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VSCodeBlazorMovieReview")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

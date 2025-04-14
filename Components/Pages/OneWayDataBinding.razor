@@ -1,0 +1,18 @@
+@page "/oneway"
+
+<h3>Bienvenido, @userName</h3>
+
+<ul>
+    @foreach(var persona in personas){
+        <li>@persona.Nombres (@persona.Apellidos)</li>
+    }
+</ul>
+
+@code {
+    private string userName = "Name of user";
+    private List<Persona> personas = new List<Persona>(){
+        new Persona { Nombres = "Name 1", Apellidos = "11"},
+        new Persona { Nombres = "Name 2", Apellidos = "22"},
+        new Persona { Nombres = "Name 3", Apellidos = "33"}
+    };
+}

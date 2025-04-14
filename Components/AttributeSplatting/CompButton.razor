@@ -1,0 +1,7 @@
+<button @attributes="atributosExtra">@Texto</button>
+
+@code {
+    [Parameter] public string Texto { get; set; } = "Haz click";
+    [Parameter(CaptureUnmatchedValues = true)]
+    public Dictionary<string, object> atributosExtra { get; set; }
+}

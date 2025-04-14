@@ -7,7 +7,11 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
 
+
 builder.Services.AddScoped<IMovieReviewService, MovieReviewService>();
+
+// Registro de un sericio de ejemplo como Singleton
+builder.Services.AddSingleton<IMyService, MyService>();
 
 var app = builder.Build();
 

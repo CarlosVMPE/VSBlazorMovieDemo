@@ -1,0 +1,13 @@
+<h3>Componente direcciones</h3>
+
+<div>
+    <h4>Tipo: @Direccion.TipoDireccion</h4>
+    <h4>Direccion: @Direccion.Direccion</h4>
+    <h4>Departamento: @Direccion.Departamento</h4>
+    <h4>Ciudad: @Direccion.Ciudad</h4>
+</div>
+
+@code {
+    [Parameter]
+    public Direcciones Direccion { get; set; }
+}

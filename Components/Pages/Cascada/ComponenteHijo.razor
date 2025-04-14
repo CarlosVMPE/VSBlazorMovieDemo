@@ -1,0 +1,21 @@
+@using VSCodeBlazorMovieReview.Components.AttributeSplatting
+<div>
+    <h2>Componente Hijo</h2>
+    <p>El tema actual es: @Tema</p>
+    <p>El idioma actual es: @Idioma</p>
+
+    <CompButton Texto="Enviar" id="boton-enviar" class="btn btn-primary" style="font-size: 20px;" />
+    <CompButton Texto="Aceptar" @attributes="atributosBoton"/>
+</div>
+
+@code {
+    [CascadingParameter(Name = "TemaGlobal")]
+    public string Tema { get; set; }
+    [CascadingParameter(Name = "IdiomaGlobal")]
+    public string Idioma { get; set; }
+    public Dictionary<string, object> atributosBoton = new Dictionary<string, object>
+    {
+        {"class", "btn btn-success"},
+        {"style", "font-size: 18px"},
+    };
+}

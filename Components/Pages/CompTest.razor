@@ -1,0 +1,37 @@
+@* @page "/test/{Categoria}/{Id:int?}" *@
+@page "/test"
+@page "/ejemplo"
+
+@inject NavigationManager Navigation
+@inject IConfiguration Configuration
+
+<h3>Bienvenido a la página TEST</h3>
+
+<button @onclick="IrAlaPagina">Ir a Página</button>
+@* <h4>Detalle del item con Id: @Id</h4>
+<h4>La categoria es: @Categoria</h4> *@
+
+<h3>Valores de configuración</h3>
+<p>Url de la Api: @UrlApi</p>
+<p>Caracteristica Activada: @ActivarCaracteristica</p>
+
+@code {
+    @* [Parameter]
+    public int? Id { get; set; }
+    [Parameter]
+    public string Categoria { get; set; } *@
+    private string? UrlApi;
+    private bool ActivarCaracteristica;
+
+    protected override void OnInitialized()
+    {
+        // Acceder a los valores del archivo appsettings.json
+        UrlApi = Configuration["ConfiguracionesAplicacion:UrlApi"];
+        ActivarCaracteristica = bool.Parse(Configuration["ConfiguracionesAplicacion:ActivarCaracteristica"] ?? "false");
+    }
+
+    void IrAlaPagina()
+    {
+        Navigation.NavigateTo("/Counter");
+    }
+}

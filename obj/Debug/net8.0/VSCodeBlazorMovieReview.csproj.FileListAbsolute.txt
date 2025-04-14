@@ -27,3 +27,4 @@
 /Users/carlos.vilchez/Documents/cs-projects/cs-projects/VSCodeBlazorMovieReview/obj/Debug/net8.0/VSCodeBlazorMovieReview.pdb
 /Users/carlos.vilchez/Documents/cs-projects/cs-projects/VSCodeBlazorMovieReview/obj/Debug/net8.0/VSCodeBlazorMovieReview.genruntimeconfig.cache
 /Users/carlos.vilchez/Documents/cs-projects/cs-projects/VSCodeBlazorMovieReview/obj/Debug/net8.0/ref/VSCodeBlazorMovieReview.dll
+/Users/carlos.vilchez/Documents/cs-projects/cs-projects/VSCodeBlazorMovieReview/obj/Debug/net8.0/VSCodeBlazorMovieReview.sourcelink.json

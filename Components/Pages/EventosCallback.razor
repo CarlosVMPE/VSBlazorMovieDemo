@@ -1,0 +1,21 @@
+<h3>Event Callback</h3>
+<p>El valor actual es: @ValorActual</p>
+<button class="btn btn-primary" @onclick="Incrementar">Incrementar</button>
+<button class="btn btn-success" @onclick="Decrementar">Derementar</button>
+
+@code {
+    [Parameter]
+    public int ValorActual { get; set; }
+    [Parameter]
+    public EventCallback<int> OnValorCambiado { get; set; }
+
+    private void Incrementar(){
+        ValorActual++;
+        OnValorCambiado.InvokeAsync(ValorActual);
+    }
+    
+    private void Decrementar(){
+        ValorActual--;
+        OnValorCambiado.InvokeAsync(ValorActual);
+    }
+}
